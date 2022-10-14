@@ -12,7 +12,7 @@
 - Axios module
 - Cheerio.js
 
-### Server Link [https://crypto-scrapper.up.railway.app/ ]
+### Server Link [https://crypto-scrapper.up.railway.app/api/v1/crypto_price_feed]
 
 ### Author : Mehedi Hasan Rafiz
 
