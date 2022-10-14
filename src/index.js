@@ -1,6 +1,6 @@
 const express = require('express');
 const getCryptoPrice = require('./utils/getCryptoPrice');
-import dotenv from 'dotenv';
+const dotenv = require('dotenv');
 
 // initialize express app
 const app = express();
