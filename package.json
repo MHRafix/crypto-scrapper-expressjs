@@ -1,0 +1,23 @@
+{
+	"name": "crypto-currency-price-scrapper",
+	"version": "1.0.0",
+	"description": "This is crypto currency price scrapper express app.",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"keywords": [
+		"crypto",
+		"bitcoin",
+		"coin",
+		"ethereum"
+	],
+	"author": "Mehedi Hasan Rafiz",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"cheerio": "^1.0.0-rc.12",
+		"express": "^4.18.1",
+		"nodemon": "^2.0.20"
+	}
+}
